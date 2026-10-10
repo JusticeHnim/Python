@@ -1,9 +1,8 @@
 Type,Name,Cost,Level
-Food,Banh cuon,20000,MEDIUM
-Food,Pho bo,25000,MEDIUM
-Type,Name,Cost,Level
-Study,But viet,9000,LOW
-Study,Tai lieu,31000,HIGH
-Type,Name,Cost,Level
+For Food,Banh cuon,20000,MEDIUM
+For Study,But viet,9000,LOW
+For Study,Tai lieu,31000,HIGH
 For Fun,Truyen Conan,15000,MEDIUM
+For Food,Pho bo,25000,MEDIUM
 For Fun,Card pokemon,15000,MEDIUM
+For Food,Banh mi,20000,MEDIUM

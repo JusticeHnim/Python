@@ -1,9 +1,9 @@
 [
-	{"name": "Banh cuon", "cost": 20000, "type": "Food"},
-	{"name": "But viet", "cost": 9000, "type": "Study"},
-	{"name": "Tai lieu", "cost" : 31000, "type": "Study"},
+	{"name": "Banh cuon", "cost": 20000, "type": "For Food"},
+	{"name": "But viet", "cost": 9000, "type": "For Study"},
+	{"name": "Tai lieu", "cost" : 31000, "type": "For Study"},
 	{"name": "Truyen Conan", "cost": 15000, "type": "For Fun"},
-	{"name": "Pho bo", "cost": 25000, "type": "Food"},
+	{"name": "Pho bo", "cost": 25000, "type": "For Food"},
 	{"name": "Card pokemon", "cost": 15000, "type": "For Fun"},
-    {"name": "Banh mi", "cost": 0, "type": "Food"}
+    {"name": "Banh mi", "cost": 20000, "type": "For Food"}
 ]
